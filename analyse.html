@@ -126,8 +126,19 @@
       padding: 28px;
     }
 
-    /* ─── Chart ─── */
+    /* ─── Chart desktop ─── */
     .chart-area { position: relative; }
+
+    /* ─── Chart mobile — liste CSS ─── */
+    .chart-mobile { display: none; }
+    .mc-item { padding: 10px 0; border-bottom: 1px solid var(--border2); }
+    .mc-item:last-child { border-bottom: none; }
+    .mc-rank { font-size: 10px; font-weight: 700; color: var(--dim); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 3px; }
+    .mc-label { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.35; margin-bottom: 6px; }
+    .mc-bar-row { display: flex; align-items: center; gap: 8px; }
+    .mc-bar-track { flex: 1; height: 8px; background: var(--border); border-radius: 4px; overflow: hidden; }
+    .mc-bar-fill { height: 100%; border-radius: 4px; transition: width .6s ease; }
+    .mc-count { font-size: 12px; font-weight: 800; min-width: 24px; text-align: right; flex-shrink: 0; }
 
     .cat-legend { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 20px; }
     .cat-chip {
@@ -142,13 +153,20 @@
     .tbl-section { margin-top: 28px; }
     .tbl-head { font-size: 12px; color: var(--muted); margin-bottom: 12px; font-weight: 400; }
 
-    .tbl-scroll {
+    .tbl-outer {
       border-radius: 12px; border: 1px solid var(--border);
-      background: var(--surface); overflow: hidden;
-      max-height: var(--tbl-h, 420px); overflow-y: auto;
+      background: var(--surface);
+      max-height: var(--tbl-h, 420px);
+      overflow: auto;          /* vertical + horizontal en un seul scroll */
     }
-    .tbl-scroll::-webkit-scrollbar { width: 4px; }
-    .tbl-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+    /* Alias pour compatibilité avec l'ancien nom */
+    .tbl-scroll { border-radius: 12px; border: 1px solid var(--border); background: var(--surface); overflow: auto; max-height: var(--tbl-h, 420px); }
+    .tbl-outer::-webkit-scrollbar, .tbl-scroll::-webkit-scrollbar { width: 4px; height: 4px; }
+    .tbl-outer::-webkit-scrollbar-thumb, .tbl-scroll::-webkit-scrollbar-thumb { background: var(--dim); border-radius: 4px; }
+
+    /* ─── Swipe hint mobile ─── */
+    .swipe-hint { display: none; align-items: center; gap: 6px; font-size: 11px; color: var(--dim); margin-bottom: 8px; }
+    .swipe-hint svg { flex-shrink: 0; }
 
     table { width: 100%; border-collapse: collapse; font-size: 13px; }
 
@@ -366,7 +384,7 @@
 
     /* ─── Responsive ─── */
     @media (max-width: 640px) {
-      .wrap { padding: 0 16px; }
+      .wrap { padding: 0 14px; }
       .kpi-strip { flex-wrap: wrap; width: 100%; }
       .kpi { border-right: none; border-bottom: 1px solid var(--border2); flex: 1; min-width: 100px; }
       .card { padding: 18px 14px; }
@@ -374,6 +392,33 @@
       .score-ring { width: 100px; height: 100px; }
       .score-ring svg { width: 100px; height: 100px; }
       .score-big { font-size: 22px; }
+
+      /* Chart : masquer canvas, afficher liste CSS */
+      .chart-area  { display: none !important; }
+      .chart-mobile { display: block; }
+
+      /* Tables : scroll horizontal natif, pas de max-height, colonne sticky */
+      .tbl-scroll, .tbl-outer {
+        max-height: none;
+        overflow-x: auto;
+        overflow-y: visible;
+        -webkit-overflow-scrolling: touch;
+        border-radius: 10px;
+      }
+      .swipe-hint { display: flex; }
+
+      /* 1re colonne sticky pour garder le nom visible */
+      table thead th:first-child,
+      table tbody td:first-child {
+        position: sticky; left: 0; z-index: 2;
+        background: #fff;
+        box-shadow: 2px 0 4px rgba(15,23,42,.07);
+      }
+      table thead th:first-child { background: var(--bg); }
+
+      /* Empêcher les cellules de trop rétrécir */
+      table { min-width: 540px; font-size: 12px; }
+      thead th, tbody td { padding: 9px 12px; }
     }
   </style>
 </head>
@@ -432,11 +477,13 @@
 
     <div class="card">
       <div class="chart-area" id="chartArea"><canvas id="profChart"></canvas></div>
+      <div class="chart-mobile" id="chartMobile"></div>
       <div class="cat-legend" id="catLegend"></div>
     </div>
 
     <div class="tbl-section">
       <p class="tbl-head" id="profTblHead"></p>
+      <div class="swipe-hint"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>Glisser pour voir tout le tableau</div>
       <div class="tbl-scroll" style="--tbl-h:440px">
         <table>
           <thead>
@@ -490,6 +537,7 @@
       </div>
     </div>
 
+    <div class="swipe-hint"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>Glisser pour voir tout le tableau</div>
     <div class="tbl-scroll" style="--tbl-h:320px">
       <table>
         <thead><tr>
@@ -544,6 +592,7 @@
       </div>
     </div>
 
+    <div class="swipe-hint"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>Glisser pour voir tout le tableau</div>
     <div class="tbl-scroll" style="--tbl-h:380px">
       <table>
         <thead><tr>
@@ -784,7 +833,27 @@ function renderKPIs(data, profs) {
 }
 
 // ════════════════════════════════════════════════════
-// RENDER — Chart
+// RENDER — Mobile chart (CSS list)
+// ════════════════════════════════════════════════════
+function renderMobileChart(profs, total) {
+  const top15 = profs.slice(0, 15);
+  const max   = top15[0].count;
+  document.getElementById('chartMobile').innerHTML = top15.map((p, i) => {
+    const pct = Math.round((p.count / max) * 100);
+    const col = bf(p.category);
+    return `<div class="mc-item">
+      <div class="mc-rank">#${i+1}</div>
+      <div class="mc-label">${p.name}</div>
+      <div class="mc-bar-row">
+        <div class="mc-bar-track"><div class="mc-bar-fill" style="width:${pct}%;background:${col}"></div></div>
+        <span class="mc-count" style="color:${col}">${p.count}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ════════════════════════════════════════════════════
+// RENDER — Chart desktop
 // ════════════════════════════════════════════════════
 let chartInst = null;
 function renderChart(profs, total) {
@@ -1059,6 +1128,7 @@ async function loadData() {
 
     renderKPIs(data, profs);
     renderChart(profs, total);
+    renderMobileChart(profs, total);
     renderProfTable(profs, total);
 
     const flash = data.chapters.find(c => c.chapterSlug === 'flash-paris');
