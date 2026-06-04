@@ -1,7 +1,9 @@
 name: Update BNI Data
 
 on:
-  workflow_dispatch:  # Manual trigger from the page button
+  workflow_dispatch:  # Déclenchement manuel depuis GitHub Actions
+  schedule:
+    - cron: '0 6 * * 1'  # Automatique chaque lundi à 6h00 UTC
 
 jobs:
   scrape:

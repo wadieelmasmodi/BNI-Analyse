@@ -598,21 +598,15 @@
         <div>Données issues de <a href="https://bni-paris-rive-droite.fr" target="_blank">bni-paris-rive-droite.fr</a> · BNI Paris Rive Droite</div>
         <div id="lastUpdated">Dernière mise à jour : —</div>
       </div>
-      <button class="btn-update" id="updateBtn" onclick="triggerUpdate()">↻ Mettre à jour</button>
+      <a class="btn-update" href="https://github.com/wadieelmasmodi/BNI-Analyse/actions/workflows/update-data.yml" target="_blank" rel="noopener">
+        ↻ Lancer une mise à jour
+      </a>
     </div>
   </div>
 </footer>
 
-<div class="toast" id="toast"></div>
 
 <script>
-// ════════════════════════════════════════════════════
-// CONFIG
-// ════════════════════════════════════════════════════
-const GITHUB_OWNER  = 'wadieelmasmodi';
-const GITHUB_REPO   = 'BNI-Analyse';
-const GITHUB_BRANCH = 'main';
-const WORKFLOW_FILE = 'update-data.yml';
 
 // ════════════════════════════════════════════════════
 // PALETTE
@@ -1086,41 +1080,7 @@ async function loadData() {
   }
 }
 
-// ════════════════════════════════════════════════════
-// UPDATE TRIGGER
-// ════════════════════════════════════════════════════
-async function triggerUpdate() {
-  if (!GITHUB_OWNER || !GITHUB_REPO) {
-    showToast('Configurez GITHUB_OWNER et GITHUB_REPO dans le source.', 'info'); return;
-  }
-  let token = localStorage.getItem('gh_pat');
-  if (!token) {
-    token = prompt('GitHub Personal Access Token\n(Permissions : repo + workflow)');
-    if (!token) return;
-    localStorage.setItem('gh_pat', token);
-  }
-  const btn = document.getElementById('updateBtn');
-  btn.disabled = true; btn.textContent = '⏳ Lancement…';
-  try {
-    const res = await fetch(
-      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
-      { method:'POST', headers:{ Authorization:`token ${token}`, Accept:'application/vnd.github.v3+json', 'Content-Type':'application/json' }, body: JSON.stringify({ ref: GITHUB_BRANCH }) }
-    );
-    if (res.ok || res.status===204) showToast('Mise à jour lancée ! Disponible dans 2–3 min.', 'ok');
-    else {
-      if (res.status===401) { localStorage.removeItem('gh_pat'); showToast('Token invalide — réessayez.', 'err'); }
-      else { const j = await res.json().catch(()=>({})); showToast('Erreur : ' + (j.message||'HTTP '+res.status), 'err'); }
-    }
-  } catch(e) { showToast('Erreur réseau : ' + e.message, 'err'); }
-  btn.disabled = false; btn.textContent = '↻ Mettre à jour';
-}
-
-function showToast(msg, type='info') {
-  const t = document.getElementById('toast');
-  t.textContent = msg; t.className = 'toast ' + type;
-  t.classList.add('show');
-  setTimeout(() => t.classList.remove('show'), 4000);
-}
+// Mise à jour déclenchée depuis GitHub Actions (lien direct dans le footer)
 
 loadData();
 </script>
