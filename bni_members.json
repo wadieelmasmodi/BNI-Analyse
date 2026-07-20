@@ -1,15 +1,15 @@
 {
   "region": "BNI Paris Rive Droite",
-  "scrapedAt": "2026-07-13T07:09:00.684Z",
+  "scrapedAt": "2026-07-20T07:06:43.159Z",
   "totalChapters": 25,
-  "totalMembers": 429,
+  "totalMembers": 428,
   "chapters": [
     {
       "chapterId": "3743",
       "chapterSlug": "bienveillance-paris",
       "chapterName": "92-04 BNI Bienveillance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/bienveillance-paris/fr/listemembre?chapterName=3743&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:06:26.524Z",
+      "scrapedAt": "2026-07-20T07:04:08.062Z",
       "memberCount": 32,
       "members": [
         {
@@ -176,7 +176,7 @@
           "professionCategory": "Publicité et Marketing",
           "professionSubcategory": "Imprimeur",
           "professionSpecialty": "Imprimeur",
-          "professionRaw": "Publicité et Marketing > Imprimeur",
+          "professionRaw": "Publicité et Marketing > Imprimeur > Imprimeur",
           "phone": "0760462967",
           "bniSphere": "Communication"
         },
@@ -414,7 +414,7 @@
       "chapterSlug": "performance-paris",
       "chapterName": "94-02 BNI Performance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/performance-paris/fr/listemembre?chapterName=3724&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:06:32.237Z",
+      "scrapedAt": "2026-07-20T07:04:14.092Z",
       "memberCount": 26,
       "members": [
         {
@@ -747,7 +747,7 @@
       "chapterSlug": "etoile-business-paris",
       "chapterName": "75-05 BNI Etoile Business - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/etoile-business-paris/fr/listemembre?chapterName=3725&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:06:38.224Z",
+      "scrapedAt": "2026-07-20T07:04:20.338Z",
       "memberCount": 19,
       "members": [
         {
@@ -996,7 +996,7 @@
       "chapterSlug": "paris-faubourg",
       "chapterName": "75D-53 BNI Paris Faubourg",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-faubourg/fr/listedesmembres?chapterName=45251&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:06:44.311Z",
+      "scrapedAt": "2026-07-20T07:04:26.394Z",
       "memberCount": 21,
       "members": [
         {
@@ -1269,7 +1269,7 @@
       "chapterSlug": "paris-merci",
       "chapterName": "75D-54 BNI Paris Merci !",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-merci/fr/listedesmembres?chapterName=45051&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:06:50.289Z",
+      "scrapedAt": "2026-07-20T07:04:32.417Z",
       "memberCount": 15,
       "members": [
         {
@@ -1470,7 +1470,7 @@
       "chapterSlug": "waow-paris",
       "chapterName": "75-18 BNI Waow ! - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/waow-paris/fr/listemembre?chapterName=9550&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:06:56.273Z",
+      "scrapedAt": "2026-07-20T07:04:38.413Z",
       "memberCount": 18,
       "members": [
         {
@@ -1707,21 +1707,9 @@
       "chapterSlug": "lets-go-paris",
       "chapterName": "75D-48 BNI Let's Go - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/lets-go-paris/fr/memberlist?chapterName=32575&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:02.244Z",
-      "memberCount": 13,
+      "scrapedAt": "2026-07-20T07:04:44.473Z",
+      "memberCount": 11,
       "members": [
-        {
-          "fullName": "Alexandre ALLENO",
-          "firstName": "Alexandre",
-          "lastName": "ALLENO",
-          "company": "SCP CHASTANIER ALLENO RABANY LAYEC",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Commissaire de justice",
-          "professionSpecialty": "Commissaire de justice",
-          "professionRaw": "Juridique et Comptabilité > Commissaire de justice > Commissaire de justice",
-          "phone": "0613517090",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
         {
           "fullName": "Delphine GRISONI",
           "firstName": "Delphine",
@@ -1745,18 +1733,6 @@
           "professionRaw": "Publicité et Marketing > Photographe > Photographe",
           "phone": "0658859838",
           "bniSphere": "Communication"
-        },
-        {
-          "fullName": "Lorine  ROUSSELET",
-          "firstName": "Lorine",
-          "lastName": "ROUSSELET",
-          "company": "Lorine Rousselet",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Contentieux",
-          "professionSpecialty": "Avocat - Contentieux",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Contentieux > Avocat - Contentieux",
-          "phone": "0628386447",
-          "bniSphere": "Conseil et service aux entreprises"
         },
         {
           "fullName": "Lucas ZIRUOLO",
@@ -1871,7 +1847,7 @@
         "Communication": 1,
         "Informatique Télécom": 0,
         "Finances": 3,
-        "Conseil et service aux entreprises": 5,
+        "Conseil et service aux entreprises": 3,
         "RH Formation": 0,
         "Immobilier": 0,
         "Construction Bâtiment": 1,
@@ -1884,7 +1860,7 @@
       "chapterSlug": "success-paris",
       "chapterName": "75-01 BNI Success - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/success-paris/fr/listemembre?chapterName=3720&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:08.230Z",
+      "scrapedAt": "2026-07-20T07:04:50.462Z",
       "memberCount": 18,
       "members": [
         {
@@ -2121,8 +2097,8 @@
       "chapterSlug": "phoenix-paris",
       "chapterName": "75D-43 BNI Phoenix - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/phoenix-paris/fr/listedesmembres?chapterName=28258&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:14.191Z",
-      "memberCount": 17,
+      "scrapedAt": "2026-07-20T07:04:56.445Z",
+      "memberCount": 18,
       "members": [
         {
           "fullName": "Adrien GERARD",
@@ -2257,6 +2233,18 @@
           "bniSphere": "Informatique Télécom"
         },
         {
+          "fullName": "Nathalie SAGNE",
+          "firstName": "Nathalie",
+          "lastName": "SAGNE",
+          "company": "NS CONSEIL",
+          "professionCategory": "Formation et Coaching",
+          "professionSubcategory": "Coach/formateur d'affaires",
+          "professionSpecialty": "Coach/formateur d'affaires",
+          "professionRaw": "Formation et Coaching > Coach/formateur d'affaires > Coach/formateur d'affaires",
+          "phone": "0614698275",
+          "bniSphere": "RH Formation"
+        },
+        {
           "fullName": "Pauline ROTH",
           "firstName": "Pauline",
           "lastName": "ROTH",
@@ -2334,7 +2322,7 @@
         "Informatique Télécom": 1,
         "Finances": 3,
         "Conseil et service aux entreprises": 9,
-        "RH Formation": 0,
+        "RH Formation": 1,
         "Immobilier": 1,
         "Construction Bâtiment": 2,
         "Vente et services aux particuliers": 0,
@@ -2346,7 +2334,7 @@
       "chapterSlug": "osmose-co-paris",
       "chapterName": "75-29 BNI Osmose & Co - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/osmose-co-paris/fr/listemembre?chapterName=14002&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:20.133Z",
+      "scrapedAt": "2026-07-20T07:05:02.406Z",
       "memberCount": 21,
       "members": [
         {
@@ -2619,7 +2607,7 @@
       "chapterSlug": "yes-paris",
       "chapterName": "75-36 BNI Yes ! - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/yes-paris/fr/listemembre?chapterName=19314&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:26.112Z",
+      "scrapedAt": "2026-07-20T07:05:08.414Z",
       "memberCount": 22,
       "members": [
         {
@@ -2904,8 +2892,8 @@
       "chapterSlug": "paris-impact",
       "chapterName": "75D-52 BNI Paris Impact",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-impact/fr/listedesmembres?chapterName=43562&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:32.099Z",
-      "memberCount": 18,
+      "scrapedAt": "2026-07-20T07:05:14.405Z",
+      "memberCount": 17,
       "members": [
         {
           "fullName": "Aurore ROBERT-LE-ROUX",
@@ -2942,18 +2930,6 @@
           "professionRaw": "Architecture et Ingénierie > Architecte > Architecte",
           "phone": "06 71 37 29 44",
           "bniSphere": "Construction Bâtiment"
-        },
-        {
-          "fullName": "Corentin THIERRY",
-          "firstName": "Corentin",
-          "lastName": "THIERRY",
-          "company": "INARI CONCIERGERIE",
-          "professionCategory": "Immobilier",
-          "professionSubcategory": "Conciergerie / Gestion résidences secondaires",
-          "professionSpecialty": "Conciergerie / Gestion résidences secondaires",
-          "professionRaw": "Immobilier > Conciergerie / Gestion résidences secondaires > Conciergerie / Gestion résidences secondaires",
-          "phone": "0663815967",
-          "bniSphere": "Immobilier"
         },
         {
           "fullName": "Daphné DAUPHIN",
@@ -3130,7 +3106,7 @@
         "Finances": 3,
         "Conseil et service aux entreprises": 9,
         "RH Formation": 1,
-        "Immobilier": 2,
+        "Immobilier": 1,
         "Construction Bâtiment": 2,
         "Vente et services aux particuliers": 0,
         "Bien être": 0
@@ -3141,7 +3117,7 @@
       "chapterSlug": "montmartre-paris",
       "chapterName": "75D-33 BNI Montmartre - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/montmartre-paris/fr/listedesmembres?chapterName=15690&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:38.076Z",
+      "scrapedAt": "2026-07-20T07:05:20.460Z",
       "memberCount": 18,
       "members": [
         {
@@ -3378,7 +3354,7 @@
       "chapterSlug": "convergences-paris",
       "chapterName": "75-17 BNI Convergences - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/convergences-paris/fr/listemembre?chapterName=9892&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:07:44.044Z",
+      "scrapedAt": "2026-07-20T07:05:26.444Z",
       "memberCount": 16,
       "members": [
         {
@@ -3591,7 +3567,7 @@
       "chapterSlug": "paris-united",
       "chapterName": "75D-51 BNI Paris United",
       "sourceUrl": "https://bni-paris-rive-droite.fr/fr/chapterdetail?chapterId=ADu96FwJQJBss2FDk%2FHErQ%3D%3D&name=75D-51%20BNI%20Paris%20United",
-      "scrapedAt": "2026-07-13T07:07:59.858Z",
+      "scrapedAt": "2026-07-20T07:05:42.351Z",
       "memberCount": 13,
       "members": [
         {
@@ -3768,7 +3744,7 @@
       "chapterSlug": "fides-paris",
       "chapterName": "75-09 BNI Fides - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/fides-paris/fr/listemembre?chapterName=3729&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:05.815Z",
+      "scrapedAt": "2026-07-20T07:05:48.344Z",
       "memberCount": 14,
       "members": [
         {
@@ -3957,8 +3933,8 @@
       "chapterSlug": "croissance-paris",
       "chapterName": "92-01 BNI Croissance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/croissance-paris/fr/listemembre?chapterName=3736&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:11.813Z",
-      "memberCount": 14,
+      "scrapedAt": "2026-07-20T07:05:54.414Z",
+      "memberCount": 13,
       "members": [
         {
           "fullName": "Christophe DECAIX",
@@ -4069,18 +4045,6 @@
           "bniSphere": "Communication"
         },
         {
-          "fullName": "Rémy POITEVIN",
-          "firstName": "Rémy",
-          "lastName": "POITEVIN",
-          "company": "VIVA SPACE DESIGN",
-          "professionCategory": "Batiment / BTP / Construction",
-          "professionSubcategory": "Agencement intérieur - Commercial",
-          "professionSpecialty": "Agencement intérieur - Commercial",
-          "professionRaw": "Batiment / BTP / Construction > Agencement intérieur - Commercial",
-          "phone": "06 08 87 14 65",
-          "bniSphere": "Construction Bâtiment"
-        },
-        {
           "fullName": "Renaud BRETON",
           "firstName": "Renaud",
           "lastName": "BRETON",
@@ -4136,7 +4100,7 @@
         "Conseil et service aux entreprises": 4,
         "RH Formation": 1,
         "Immobilier": 1,
-        "Construction Bâtiment": 3,
+        "Construction Bâtiment": 2,
         "Vente et services aux particuliers": 0,
         "Bien être": 0
       }
@@ -4146,8 +4110,8 @@
       "chapterSlug": "wake-up-paris",
       "chapterName": "75D-46 BNI Wake Up - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/wake-up-paris/fr/listemembre?chapterName=30962&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:17.766Z",
-      "memberCount": 22,
+      "scrapedAt": "2026-07-20T07:06:00.411Z",
+      "memberCount": 23,
       "members": [
         {
           "fullName": "Alexandra REY",
@@ -4160,6 +4124,18 @@
           "professionRaw": "Immobilier > Agent immobilier résidentiel > Agent immobilier résidentiel",
           "phone": "+33644312173",
           "bniSphere": "Immobilier"
+        },
+        {
+          "fullName": "Astrid DESAGNEAUX",
+          "firstName": "Astrid",
+          "lastName": "DESAGNEAUX",
+          "company": "selarl desagneaux",
+          "professionCategory": "Juridique et Comptabilité",
+          "professionSubcategory": "Commissaire de justice",
+          "professionSpecialty": "Commissaire de justice",
+          "professionRaw": "Juridique et Comptabilité > Commissaire de justice > Commissaire de justice",
+          "phone": "0147201043",
+          "bniSphere": "Conseil et service aux entreprises"
         },
         {
           "fullName": "Aurélien ASCHER",
@@ -4418,7 +4394,7 @@
         "Communication": 2,
         "Informatique Télécom": 1,
         "Finances": 3,
-        "Conseil et service aux entreprises": 10,
+        "Conseil et service aux entreprises": 11,
         "RH Formation": 0,
         "Immobilier": 2,
         "Construction Bâtiment": 1,
@@ -4431,7 +4407,7 @@
       "chapterSlug": "and-you-paris",
       "chapterName": "75-19 BNI&You - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/and-you-paris/fr/listemembre?chapterName=10627&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:23.729Z",
+      "scrapedAt": "2026-07-20T07:06:06.389Z",
       "memberCount": 13,
       "members": [
         {
@@ -4608,8 +4584,8 @@
       "chapterSlug": "move-paris",
       "chapterName": "75D-47 BNI Move - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/move-paris/fr/listedesmembres?chapterName=32269&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:29.694Z",
-      "memberCount": 17,
+      "scrapedAt": "2026-07-20T07:06:12.340Z",
+      "memberCount": 16,
       "members": [
         {
           "fullName": "Amélie BEHR",
@@ -4744,18 +4720,6 @@
           "bniSphere": "Immobilier"
         },
         {
-          "fullName": "Guillaume GOUJON",
-          "firstName": "Guillaume",
-          "lastName": "GOUJON",
-          "company": "TONGUI",
-          "professionCategory": "Publicité et Marketing",
-          "professionSubcategory": "Agence de publicité / communication",
-          "professionSpecialty": "Agence de publicité / communication",
-          "professionRaw": "Publicité et Marketing > Agence de publicité / communication",
-          "phone": "0153662683",
-          "bniSphere": "Communication"
-        },
-        {
           "fullName": "Laurène MENETRE",
           "firstName": "Laurène",
           "lastName": "MENETRE",
@@ -4817,7 +4781,7 @@
         }
       ],
       "sphereStats": {
-        "Communication": 1,
+        "Communication": 0,
         "Informatique Télécom": 2,
         "Finances": 2,
         "Conseil et service aux entreprises": 6,
@@ -4833,8 +4797,8 @@
       "chapterSlug": "best-breakfast-paris",
       "chapterName": "75-11 BNI Best & Breakfast - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/best-%26-breakfast-paris/fr/listemembre?chapterName=3731&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:35.688Z",
-      "memberCount": 15,
+      "scrapedAt": "2026-07-20T07:06:18.335Z",
+      "memberCount": 16,
       "members": [
         {
           "fullName": "Aude LASTES",
@@ -4919,6 +4883,18 @@
           "professionRaw": "Finance et Assurances > Gestion de Patrimoine > Gestion de Patrimoine",
           "phone": "0698452650",
           "bniSphere": "Finances"
+        },
+        {
+          "fullName": "Jacques DE FONTGALLAND",
+          "firstName": "Jacques",
+          "lastName": "DE FONTGALLAND",
+          "company": "A.R.T. RÉALISATIONS",
+          "professionCategory": "Architecture et Ingénierie",
+          "professionSubcategory": "Architecte",
+          "professionSpecialty": "Architecte",
+          "professionRaw": "Architecture et Ingénierie > Architecte > Architecte",
+          "phone": "0607037751",
+          "bniSphere": "Construction Bâtiment"
         },
         {
           "fullName": "Jérôme MUYARD",
@@ -5024,7 +5000,7 @@
         "Conseil et service aux entreprises": 4,
         "RH Formation": 2,
         "Immobilier": 2,
-        "Construction Bâtiment": 2,
+        "Construction Bâtiment": 3,
         "Vente et services aux particuliers": 0,
         "Bien être": 0
       }
@@ -5034,9 +5010,21 @@
       "chapterSlug": "synergies",
       "chapterName": "75-14 BNI Synergies - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/synergies/fr/listemembre?chapterName=3740&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:41.893Z",
-      "memberCount": 13,
+      "scrapedAt": "2026-07-20T07:06:24.317Z",
+      "memberCount": 15,
       "members": [
+        {
+          "fullName": "Cindy NLEM NDONGO",
+          "firstName": "Cindy",
+          "lastName": "NLEM NDONGO",
+          "company": "KAIRNS AVOCATS",
+          "professionCategory": "Juridique et Comptabilité",
+          "professionSubcategory": "Avocat - Droit des affaires",
+          "professionSpecialty": "Avocat - Droit des affaires",
+          "professionRaw": "Juridique et Comptabilité > Avocat - Droit des affaires > Avocat - Droit des affaires",
+          "phone": "+33 6 18 51 13 23",
+          "bniSphere": "Conseil et service aux entreprises"
+        },
         {
           "fullName": "Corentin POUSSET BOUGÈRE",
           "firstName": "Corentin",
@@ -5146,6 +5134,18 @@
           "bniSphere": "Conseil et service aux entreprises"
         },
         {
+          "fullName": "Paul-Romain GIRARD",
+          "firstName": "Paul-Romain",
+          "lastName": "GIRARD",
+          "company": "Paul Romain GIRARD",
+          "professionCategory": "Juridique et Comptabilité",
+          "professionSubcategory": "Avocat - Droit immobilier",
+          "professionSpecialty": "Avocat - Droit immobilier",
+          "professionRaw": "Juridique et Comptabilité > Avocat - Droit immobilier > Avocat - Droit immobilier",
+          "phone": "+336 35 19 75 82",
+          "bniSphere": "Conseil et service aux entreprises"
+        },
+        {
           "fullName": "Quentin GAUCHET",
           "firstName": "Quentin",
           "lastName": "GAUCHET",
@@ -5198,7 +5198,7 @@
         "Communication": 1,
         "Informatique Télécom": 0,
         "Finances": 3,
-        "Conseil et service aux entreprises": 5,
+        "Conseil et service aux entreprises": 7,
         "RH Formation": 1,
         "Immobilier": 2,
         "Construction Bâtiment": 1,
@@ -5211,7 +5211,7 @@
       "chapterSlug": "flash-paris",
       "chapterName": "75D-49 BNI Flash - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/flash-paris/fr/listedesmembres?chapterName=39472&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:47.874Z",
+      "scrapedAt": "2026-07-20T07:06:30.391Z",
       "memberCount": 10,
       "members": [
         {
@@ -5318,7 +5318,7 @@
           "professionCategory": "Publicité et Marketing",
           "professionSubcategory": "Infographiste",
           "professionSpecialty": "Infographiste",
-          "professionRaw": "Publicité et Marketing > Infographiste",
+          "professionRaw": "Publicité et Marketing > Infographiste > Infographiste",
           "phone": "0646182483",
           "bniSphere": "Communication"
         },
@@ -5352,8 +5352,8 @@
       "chapterSlug": "la-sorbonne-paris",
       "chapterName": "75-08 BNI La Sorbonne - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/la-sorbonne-paris/fr/listemembre?chapterName=3728&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:53.857Z",
-      "memberCount": 13,
+      "scrapedAt": "2026-07-20T07:06:36.373Z",
+      "memberCount": 12,
       "members": [
         {
           "fullName": "Adèle CANUS-LACOSTE",
@@ -5476,18 +5476,6 @@
           "bniSphere": "Finances"
         },
         {
-          "fullName": "Mickaël DA SILVA",
-          "firstName": "Mickaël",
-          "lastName": "DA SILVA",
-          "company": "MDS AVOCAT",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Droit immobilier",
-          "professionSpecialty": "Avocat - Droit immobilier",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Droit immobilier > Avocat - Droit immobilier",
-          "phone": "0764766057",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
-        {
           "fullName": "Olivier PANCER",
           "firstName": "Olivier",
           "lastName": "PANCER",
@@ -5516,7 +5504,7 @@
         "Communication": 1,
         "Informatique Télécom": 0,
         "Finances": 3,
-        "Conseil et service aux entreprises": 5,
+        "Conseil et service aux entreprises": 4,
         "RH Formation": 0,
         "Immobilier": 2,
         "Construction Bâtiment": 1,
@@ -5529,7 +5517,7 @@
       "chapterSlug": "shine-paris",
       "chapterName": "75-39 BNI Shine - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/shine-paris/fr/listemembre?chapterName=15691&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-07-13T07:08:59.847Z",
+      "scrapedAt": "2026-07-20T07:06:42.325Z",
       "memberCount": 11,
       "members": [
         {
@@ -5710,12 +5698,12 @@
     "Santé et Bien-être": "Bien être"
   },
   "globalSphereStats": {
-    "Communication": 40,
+    "Communication": 39,
     "Informatique Télécom": 15,
     "Finances": 72,
     "Conseil et service aux entreprises": 171,
-    "RH Formation": 15,
-    "Immobilier": 42,
+    "RH Formation": 16,
+    "Immobilier": 41,
     "Construction Bâtiment": 54,
     "Vente et services aux particuliers": 11,
     "Bien être": 9
