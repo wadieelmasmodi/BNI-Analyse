@@ -1,15 +1,15 @@
 {
   "region": "BNI Paris Rive Droite",
-  "scrapedAt": "2026-08-03T07:09:20.318Z",
+  "scrapedAt": "2026-08-10T06:30:29.953Z",
   "totalChapters": 25,
-  "totalMembers": 423,
+  "totalMembers": 422,
   "chapters": [
     {
       "chapterId": "3743",
       "chapterSlug": "bienveillance-paris",
       "chapterName": "92-04 BNI Bienveillance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/bienveillance-paris/fr/listemembre?chapterName=3743&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:06:41.333Z",
+      "scrapedAt": "2026-08-10T06:27:54.960Z",
       "memberCount": 32,
       "members": [
         {
@@ -414,7 +414,7 @@
       "chapterSlug": "performance-paris",
       "chapterName": "94-02 BNI Performance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/performance-paris/fr/listemembre?chapterName=3724&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:06:47.160Z",
+      "scrapedAt": "2026-08-10T06:28:00.709Z",
       "memberCount": 26,
       "members": [
         {
@@ -747,7 +747,7 @@
       "chapterSlug": "etoile-business-paris",
       "chapterName": "75-05 BNI Etoile Business - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/etoile-business-paris/fr/listemembre?chapterName=3725&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:06:53.335Z",
+      "scrapedAt": "2026-08-10T06:28:06.728Z",
       "memberCount": 18,
       "members": [
         {
@@ -984,7 +984,7 @@
       "chapterSlug": "paris-faubourg",
       "chapterName": "75D-53 BNI Paris Faubourg",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-faubourg/fr/listedesmembres?chapterName=45251&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:06:59.562Z",
+      "scrapedAt": "2026-08-10T06:28:12.833Z",
       "memberCount": 21,
       "members": [
         {
@@ -1257,7 +1257,7 @@
       "chapterSlug": "paris-merci",
       "chapterName": "75D-54 BNI Paris Merci !",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-merci/fr/listedesmembres?chapterName=45051&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:05.772Z",
+      "scrapedAt": "2026-08-10T06:28:18.858Z",
       "memberCount": 14,
       "members": [
         {
@@ -1446,7 +1446,7 @@
       "chapterSlug": "waow-paris",
       "chapterName": "75-18 BNI Waow ! - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/waow-paris/fr/listemembre?chapterName=9550&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:11.904Z",
+      "scrapedAt": "2026-08-10T06:28:24.845Z",
       "memberCount": 18,
       "members": [
         {
@@ -1683,7 +1683,7 @@
       "chapterSlug": "lets-go-paris",
       "chapterName": "75D-48 BNI Let's Go - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/lets-go-paris/fr/memberlist?chapterName=32575&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:18.172Z",
+      "scrapedAt": "2026-08-10T06:28:30.824Z",
       "memberCount": 12,
       "members": [
         {
@@ -1848,7 +1848,7 @@
       "chapterSlug": "success-paris",
       "chapterName": "75-01 BNI Success - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/success-paris/fr/listemembre?chapterName=3720&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:24.277Z",
+      "scrapedAt": "2026-08-10T06:28:36.803Z",
       "memberCount": 18,
       "members": [
         {
@@ -2085,8 +2085,8 @@
       "chapterSlug": "phoenix-paris",
       "chapterName": "75D-43 BNI Phoenix - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/phoenix-paris/fr/listedesmembres?chapterName=28258&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:30.408Z",
-      "memberCount": 19,
+      "scrapedAt": "2026-08-10T06:28:42.785Z",
+      "memberCount": 18,
       "members": [
         {
           "fullName": "Adrien GERARD",
@@ -2281,18 +2281,6 @@
           "bniSphere": "Construction Bâtiment"
         },
         {
-          "fullName": "Thomas VESPERINI",
-          "firstName": "Thomas",
-          "lastName": "VESPERINI",
-          "company": "LE CONSERVATEUR",
-          "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Gestion de Patrimoine",
-          "professionSpecialty": "Gestion de Patrimoine",
-          "professionRaw": "Finance et Assurances > Gestion de Patrimoine",
-          "phone": "0637482605",
-          "bniSphere": "Finances"
-        },
-        {
           "fullName": "Tom MARTINOT",
           "firstName": "Tom",
           "lastName": "MARTINOT",
@@ -2320,7 +2308,7 @@
       "sphereStats": {
         "Communication": 1,
         "Informatique Télécom": 1,
-        "Finances": 4,
+        "Finances": 3,
         "Conseil et service aux entreprises": 9,
         "RH Formation": 1,
         "Immobilier": 1,
@@ -2334,7 +2322,7 @@
       "chapterSlug": "osmose-co-paris",
       "chapterName": "75-29 BNI Osmose & Co - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/osmose-co-paris/fr/listemembre?chapterName=14002&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:36.556Z",
+      "scrapedAt": "2026-08-10T06:28:48.810Z",
       "memberCount": 20,
       "members": [
         {
@@ -2595,7 +2583,7 @@
       "chapterSlug": "yes-paris",
       "chapterName": "75-36 BNI Yes ! - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/yes-paris/fr/listemembre?chapterName=19314&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:42.727Z",
+      "scrapedAt": "2026-08-10T06:28:54.784Z",
       "memberCount": 22,
       "members": [
         {
@@ -2880,7 +2868,7 @@
       "chapterSlug": "paris-impact",
       "chapterName": "75D-52 BNI Paris Impact",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-impact/fr/listedesmembres?chapterName=43562&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:48.954Z",
+      "scrapedAt": "2026-08-10T06:29:00.783Z",
       "memberCount": 17,
       "members": [
         {
@@ -3105,7 +3093,7 @@
       "chapterSlug": "montmartre-paris",
       "chapterName": "75D-33 BNI Montmartre - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/montmartre-paris/fr/listedesmembres?chapterName=15690&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:07:55.189Z",
+      "scrapedAt": "2026-08-10T06:29:06.781Z",
       "memberCount": 18,
       "members": [
         {
@@ -3342,7 +3330,7 @@
       "chapterSlug": "convergences-paris",
       "chapterName": "75-17 BNI Convergences - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/convergences-paris/fr/listemembre?chapterName=9892&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:01.347Z",
+      "scrapedAt": "2026-08-10T06:29:12.785Z",
       "memberCount": 16,
       "members": [
         {
@@ -3555,7 +3543,7 @@
       "chapterSlug": "paris-united",
       "chapterName": "75D-51 BNI Paris United",
       "sourceUrl": "https://bni-paris-rive-droite.fr/fr/chapterdetail?chapterId=ADu96FwJQJBss2FDk%2FHErQ%3D%3D&name=75D-51%20BNI%20Paris%20United",
-      "scrapedAt": "2026-08-03T07:08:17.820Z",
+      "scrapedAt": "2026-08-10T06:29:28.945Z",
       "memberCount": 7,
       "members": [
         {
@@ -3660,7 +3648,7 @@
       "chapterSlug": "fides-paris",
       "chapterName": "75-09 BNI Fides - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/fides-paris/fr/listemembre?chapterName=3729&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:24.069Z",
+      "scrapedAt": "2026-08-10T06:29:35.062Z",
       "memberCount": 14,
       "members": [
         {
@@ -3849,7 +3837,7 @@
       "chapterSlug": "croissance-paris",
       "chapterName": "92-01 BNI Croissance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/croissance-paris/fr/listemembre?chapterName=3736&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:30.183Z",
+      "scrapedAt": "2026-08-10T06:29:41.098Z",
       "memberCount": 13,
       "members": [
         {
@@ -4026,7 +4014,7 @@
       "chapterSlug": "wake-up-paris",
       "chapterName": "75D-46 BNI Wake Up - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/wake-up-paris/fr/listemembre?chapterName=30962&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:36.318Z",
+      "scrapedAt": "2026-08-10T06:29:47.100Z",
       "memberCount": 23,
       "members": [
         {
@@ -4323,7 +4311,7 @@
       "chapterSlug": "and-you-paris",
       "chapterName": "75-19 BNI&You - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/and-you-paris/fr/listemembre?chapterName=10627&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:42.495Z",
+      "scrapedAt": "2026-08-10T06:29:53.042Z",
       "memberCount": 13,
       "members": [
         {
@@ -4500,7 +4488,7 @@
       "chapterSlug": "move-paris",
       "chapterName": "75D-47 BNI Move - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/move-paris/fr/listedesmembres?chapterName=32269&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:48.693Z",
+      "scrapedAt": "2026-08-10T06:29:59.082Z",
       "memberCount": 20,
       "members": [
         {
@@ -4761,7 +4749,7 @@
       "chapterSlug": "best-breakfast-paris",
       "chapterName": "75-11 BNI Best & Breakfast - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/best-%26-breakfast-paris/fr/listemembre?chapterName=3731&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:08:54.961Z",
+      "scrapedAt": "2026-08-10T06:30:05.058Z",
       "memberCount": 15,
       "members": [
         {
@@ -4962,7 +4950,7 @@
       "chapterSlug": "synergies",
       "chapterName": "75-14 BNI Synergies - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/synergies/fr/listemembre?chapterName=3740&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:09:01.076Z",
+      "scrapedAt": "2026-08-10T06:30:11.102Z",
       "memberCount": 15,
       "members": [
         {
@@ -5163,7 +5151,7 @@
       "chapterSlug": "flash-paris",
       "chapterName": "75D-49 BNI Flash - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/flash-paris/fr/listedesmembres?chapterName=39472&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:09:07.209Z",
+      "scrapedAt": "2026-08-10T06:30:17.095Z",
       "memberCount": 10,
       "members": [
         {
@@ -5304,7 +5292,7 @@
       "chapterSlug": "la-sorbonne-paris",
       "chapterName": "75-08 BNI La Sorbonne - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/la-sorbonne-paris/fr/listemembre?chapterName=3728&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:09:13.361Z",
+      "scrapedAt": "2026-08-10T06:30:23.090Z",
       "memberCount": 12,
       "members": [
         {
@@ -5469,7 +5457,7 @@
       "chapterSlug": "shine-paris",
       "chapterName": "75-39 BNI Shine - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/shine-paris/fr/listemembre?chapterName=15691&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-03T07:09:19.490Z",
+      "scrapedAt": "2026-08-10T06:30:29.116Z",
       "memberCount": 10,
       "members": [
         {
@@ -5640,7 +5628,7 @@
   "globalSphereStats": {
     "Communication": 40,
     "Informatique Télécom": 14,
-    "Finances": 71,
+    "Finances": 70,
     "Conseil et service aux entreprises": 171,
     "RH Formation": 16,
     "Immobilier": 40,
