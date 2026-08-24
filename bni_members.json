@@ -1,15 +1,15 @@
 {
   "region": "BNI Paris Rive Droite",
-  "scrapedAt": "2026-08-17T06:42:58.727Z",
+  "scrapedAt": "2026-08-24T06:45:52.756Z",
   "totalChapters": 25,
-  "totalMembers": 420,
+  "totalMembers": 414,
   "chapters": [
     {
       "chapterId": "3743",
       "chapterSlug": "bienveillance-paris",
       "chapterName": "92-04 BNI Bienveillance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/bienveillance-paris/fr/listemembre?chapterName=3743&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:14.554Z",
+      "scrapedAt": "2026-08-24T06:43:11.547Z",
       "memberCount": 31,
       "members": [
         {
@@ -138,9 +138,9 @@
           "lastName": "LEROY",
           "company": "HL CONSEIL",
           "professionCategory": "Formation et Coaching",
-          "professionSubcategory": "Formation et Coaching (Autre)",
-          "professionSpecialty": "Accompagnement individuel et collectif de professionnels et dirigeants",
-          "professionRaw": "Formation et Coaching > Formation et Coaching (Autre) > Accompagnement individuel et collectif de professionnels et dirigeants",
+          "professionSubcategory": "Coach en management",
+          "professionSpecialty": "Coach en management",
+          "professionRaw": "Formation et Coaching > Coach en management > Coach en management",
           "phone": "0660979380",
           "bniSphere": "RH Formation"
         },
@@ -150,9 +150,9 @@
           "lastName": "MARTINEZ",
           "company": "Hugo MARTINEZ",
           "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Finances et Assurances (Autre)",
-          "professionSpecialty": "expert financier en évaluation de préjudice",
-          "professionRaw": "Finance et Assurances > Finances et Assurances (Autre) > expert financier en évaluation de préjudice",
+          "professionSubcategory": "Assurances de biens et de responsabilités",
+          "professionSpecialty": "Assurances de biens et de responsabilités",
+          "professionRaw": "Finance et Assurances > Assurances de biens et de responsabilités > Assurances de biens et de responsabilités",
           "phone": "0612326784",
           "bniSphere": "Finances"
         },
@@ -402,7 +402,7 @@
       "chapterSlug": "performance-paris",
       "chapterName": "94-02 BNI Performance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/performance-paris/fr/listemembre?chapterName=3724&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:20.484Z",
+      "scrapedAt": "2026-08-24T06:43:17.385Z",
       "memberCount": 26,
       "members": [
         {
@@ -423,9 +423,9 @@
           "lastName": "PAYEN",
           "company": "Fairenov",
           "professionCategory": "Batiment / BTP / Construction",
-          "professionSubcategory": "Batiment / BTP / Construction (Autre)",
-          "professionSpecialty": "Entreprise Générale de Rénovation Ecoresponsable",
-          "professionRaw": "Batiment / BTP / Construction > Batiment / BTP / Construction (Autre) > Entreprise Générale de Rénovation Ecoresponsable",
+          "professionSubcategory": "Rénovation",
+          "professionSpecialty": "Rénovation",
+          "professionRaw": "Batiment / BTP / Construction > Rénovation > Rénovation",
           "phone": "0666209176",
           "bniSphere": "Construction Bâtiment"
         },
@@ -735,7 +735,7 @@
       "chapterSlug": "etoile-business-paris",
       "chapterName": "75-05 BNI Etoile Business - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/etoile-business-paris/fr/listemembre?chapterName=3725&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:26.782Z",
+      "scrapedAt": "2026-08-24T06:43:23.634Z",
       "memberCount": 18,
       "members": [
         {
@@ -912,9 +912,9 @@
           "lastName": "BREHIER",
           "company": "Bréhier Avocat",
           "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Juridique et Comptabilité (Autre)",
-          "professionSpecialty": "AVOCAT DROIT DU SPORT",
-          "professionRaw": "Juridique et Comptabilité > Juridique et Comptabilité (Autre) > AVOCAT DROIT DU SPORT",
+          "professionSubcategory": "Avocat - Droit de la santé",
+          "professionSpecialty": "Avocat - Droit de la santé",
+          "professionRaw": "Juridique et Comptabilité > Avocat - Droit de la santé > Avocat - Droit de la santé",
           "phone": "+33659335405",
           "bniSphere": "Conseil et service aux entreprises"
         },
@@ -972,7 +972,7 @@
       "chapterSlug": "paris-faubourg",
       "chapterName": "75D-53 BNI Paris Faubourg",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-faubourg/fr/listedesmembres?chapterName=45251&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:33.230Z",
+      "scrapedAt": "2026-08-24T06:43:29.953Z",
       "memberCount": 21,
       "members": [
         {
@@ -1041,9 +1041,9 @@
           "lastName": "HAZOUME",
           "company": "Le Consultant Augmenté",
           "professionCategory": "Conseils",
-          "professionSubcategory": "Conseils (Autre)",
-          "professionSpecialty": "Conseil - Formation en transfo.digitale IA",
-          "professionRaw": "Conseils > Conseils (Autre) > Conseil - Formation en transfo.digitale IA",
+          "professionSubcategory": "Conseil en stratégie d'entreprises",
+          "professionSpecialty": "Conseil en stratégie d'entreprises",
+          "professionRaw": "Conseils > Conseil en stratégie d'entreprises > Conseil en stratégie d'entreprises",
           "phone": "06 88 82 48 16",
           "bniSphere": "Conseil et service aux entreprises"
         },
@@ -1245,7 +1245,7 @@
       "chapterSlug": "paris-merci",
       "chapterName": "75D-54 BNI Paris Merci !",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-merci/fr/listedesmembres?chapterName=45051&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:39.582Z",
+      "scrapedAt": "2026-08-24T06:43:36.191Z",
       "memberCount": 14,
       "members": [
         {
@@ -1350,9 +1350,9 @@
           "lastName": "GOGUET",
           "company": "PLURIBATIMENT",
           "professionCategory": "Batiment / BTP / Construction",
-          "professionSubcategory": "Batiment / BTP / Construction (Autre)",
-          "professionSpecialty": "Rénovation d’intérieur et extension",
-          "professionRaw": "Batiment / BTP / Construction > Batiment / BTP / Construction (Autre) > Rénovation d’intérieur et extension",
+          "professionSubcategory": "Rénovation",
+          "professionSpecialty": "Rénovation",
+          "professionRaw": "Batiment / BTP / Construction > Rénovation > Rénovation",
           "phone": "0620316932",
           "bniSphere": "Construction Bâtiment"
         },
@@ -1434,7 +1434,7 @@
       "chapterSlug": "waow-paris",
       "chapterName": "75-18 BNI Waow ! - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/waow-paris/fr/listemembre?chapterName=9550&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:45.964Z",
+      "scrapedAt": "2026-08-24T06:43:42.408Z",
       "memberCount": 18,
       "members": [
         {
@@ -1635,9 +1635,9 @@
           "lastName": "BAUME",
           "company": "AXA",
           "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Finances et Assurances (Autre)",
-          "professionSpecialty": "Santé, Prévoyance, PER, PERO/PEE/PERCO",
-          "professionRaw": "Finance et Assurances > Finances et Assurances (Autre) > Santé, Prévoyance, PER, PERO/PEE/PERCO",
+          "professionSubcategory": "Prévoyance",
+          "professionSpecialty": "Prévoyance",
+          "professionRaw": "Finance et Assurances > Prévoyance > Prévoyance",
           "phone": "06 03 20 01 06",
           "bniSphere": "Finances"
         },
@@ -1671,7 +1671,7 @@
       "chapterSlug": "lets-go-paris",
       "chapterName": "75D-48 BNI Let's Go - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/lets-go-paris/fr/memberlist?chapterName=32575&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:52.279Z",
+      "scrapedAt": "2026-08-24T06:43:48.689Z",
       "memberCount": 12,
       "members": [
         {
@@ -1836,7 +1836,7 @@
       "chapterSlug": "success-paris",
       "chapterName": "75-01 BNI Success - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/success-paris/fr/listemembre?chapterName=3720&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:40:58.638Z",
+      "scrapedAt": "2026-08-24T06:43:54.890Z",
       "memberCount": 18,
       "members": [
         {
@@ -2073,7 +2073,7 @@
       "chapterSlug": "phoenix-paris",
       "chapterName": "75D-43 BNI Phoenix - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/phoenix-paris/fr/listedesmembres?chapterName=28258&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:41:04.947Z",
+      "scrapedAt": "2026-08-24T06:44:01.097Z",
       "memberCount": 18,
       "members": [
         {
@@ -2310,8 +2310,8 @@
       "chapterSlug": "osmose-co-paris",
       "chapterName": "75-29 BNI Osmose & Co - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/osmose-co-paris/fr/listemembre?chapterName=14002&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:41:11.311Z",
-      "memberCount": 20,
+      "scrapedAt": "2026-08-24T06:44:07.329Z",
+      "memberCount": 21,
       "members": [
         {
           "fullName": "Adnane GHALLAB",
@@ -2335,6 +2335,18 @@
           "professionSpecialty": "Avocat - Droit immobilier",
           "professionRaw": "Juridique et Comptabilité > Avocat - Droit immobilier",
           "phone": "0616348560",
+          "bniSphere": "Conseil et service aux entreprises"
+        },
+        {
+          "fullName": "Antoine KIBLER",
+          "firstName": "Antoine",
+          "lastName": "KIBLER",
+          "company": "KIBLER AVOCAT",
+          "professionCategory": "Juridique et Comptabilité",
+          "professionSubcategory": "Avocat - Droit de la propriété intellectuelle",
+          "professionSpecialty": "Avocat - Droit de la propriété intellectuelle",
+          "professionRaw": "Juridique et Comptabilité > Avocat - Droit de la propriété intellectuelle",
+          "phone": "0647736833",
           "bniSphere": "Conseil et service aux entreprises"
         },
         {
@@ -2558,7 +2570,7 @@
         "Communication": 4,
         "Informatique Télécom": 1,
         "Finances": 3,
-        "Conseil et service aux entreprises": 8,
+        "Conseil et service aux entreprises": 9,
         "RH Formation": 1,
         "Immobilier": 1,
         "Construction Bâtiment": 2,
@@ -2571,7 +2583,7 @@
       "chapterSlug": "yes-paris",
       "chapterName": "75-36 BNI Yes ! - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/yes-paris/fr/listemembre?chapterName=19314&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:41:17.693Z",
+      "scrapedAt": "2026-08-24T06:44:13.581Z",
       "memberCount": 22,
       "members": [
         {
@@ -2856,7 +2868,7 @@
       "chapterSlug": "paris-impact",
       "chapterName": "75D-52 BNI Paris Impact",
       "sourceUrl": "https://bni-paris-rive-droite.fr/paris-impact/fr/listedesmembres?chapterName=43562&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:41:24.101Z",
+      "scrapedAt": "2026-08-24T06:44:19.870Z",
       "memberCount": 17,
       "members": [
         {
@@ -3081,7 +3093,7 @@
       "chapterSlug": "montmartre-paris",
       "chapterName": "75D-33 BNI Montmartre - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/montmartre-paris/fr/listedesmembres?chapterName=15690&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:41:30.424Z",
+      "scrapedAt": "2026-08-24T06:44:26.094Z",
       "memberCount": 18,
       "members": [
         {
@@ -3090,9 +3102,9 @@
           "lastName": "CONCHON",
           "company": "TRA-VIS",
           "professionCategory": "Batiment / BTP / Construction",
-          "professionSubcategory": "Batiment / BTP / Construction (Autre)",
-          "professionSpecialty": "Rénovation - Entreprise générale TCE",
-          "professionRaw": "Batiment / BTP / Construction > Batiment / BTP / Construction (Autre) > Rénovation - Entreprise générale TCE",
+          "professionSubcategory": "Rénovation - bâtiments professionnels",
+          "professionSpecialty": "Rénovation - bâtiments professionnels",
+          "professionRaw": "Batiment / BTP / Construction > Rénovation - bâtiments professionnels > Rénovation - bâtiments professionnels",
           "phone": "0630832735",
           "bniSphere": "Construction Bâtiment"
         },
@@ -3198,9 +3210,9 @@
           "lastName": "ILLAIRE",
           "company": "Mi Conseil",
           "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Finances et Assurances (Autre)",
-          "professionSpecialty": "Assurance de personnes",
-          "professionRaw": "Finance et Assurances > Finances et Assurances (Autre) > Assurance de personnes",
+          "professionSubcategory": "Assurances de biens et de responsabilités",
+          "professionSpecialty": "Assurances de biens et de responsabilités",
+          "professionRaw": "Finance et Assurances > Assurances de biens et de responsabilités > Assurances de biens et de responsabilités",
           "phone": "0648369033",
           "bniSphere": "Finances"
         },
@@ -3318,7 +3330,7 @@
       "chapterSlug": "convergences-paris",
       "chapterName": "75-17 BNI Convergences - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/convergences-paris/fr/listemembre?chapterName=9892&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:41:36.743Z",
+      "scrapedAt": "2026-08-24T06:44:32.343Z",
       "memberCount": 16,
       "members": [
         {
@@ -3507,9 +3519,9 @@
           "lastName": "COURTOIS",
           "company": "AXA",
           "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Finances et Assurances (Autre)",
-          "professionSpecialty": "Agent Général d'assurance",
-          "professionRaw": "Finance et Assurances > Finances et Assurances (Autre) > Agent Général d'assurance",
+          "professionSubcategory": "Expert en assurances",
+          "professionSpecialty": "Expert en assurances",
+          "professionRaw": "Finance et Assurances > Expert en assurances > Expert en assurances",
           "phone": "+33 7 78 04 11 11",
           "bniSphere": "Finances"
         }
@@ -3531,102 +3543,17 @@
       "chapterSlug": "paris-united",
       "chapterName": "75D-51 BNI Paris United",
       "sourceUrl": "https://bni-paris-rive-droite.fr/fr/chapterdetail?chapterId=ADu96FwJQJBss2FDk%2FHErQ%3D%3D&name=75D-51%20BNI%20Paris%20United",
-      "scrapedAt": "2026-08-17T06:41:54.231Z",
-      "memberCount": 7,
-      "members": [
-        {
-          "fullName": "Alexis WERBA",
-          "firstName": "Alexis",
-          "lastName": "WERBA",
-          "company": "WERBA",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Notaire",
-          "professionSpecialty": "Notaire",
-          "professionRaw": "Juridique et Comptabilité > Notaire > Notaire",
-          "phone": "0638796949",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
-        {
-          "fullName": "Christophe GIRARDET",
-          "firstName": "Christophe",
-          "lastName": "GIRARDET",
-          "company": "ILLICO TRAVAUX",
-          "professionCategory": "Batiment / BTP / Construction",
-          "professionSubcategory": "Agencement d'intérieur/rénovation",
-          "professionSpecialty": "Agencement d'intérieur/rénovation",
-          "professionRaw": "Batiment / BTP / Construction > Agencement d'intérieur/rénovation > Agencement d'intérieur/rénovation",
-          "phone": "0624530495",
-          "bniSphere": "Construction Bâtiment"
-        },
-        {
-          "fullName": "Eric BENJAMIN",
-          "firstName": "Eric",
-          "lastName": "BENJAMIN",
-          "company": "Cabinet BKP",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Droit immobilier",
-          "professionSpecialty": "Avocat - Droit immobilier",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Droit immobilier > Avocat - Droit immobilier",
-          "phone": "0609092684",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
-        {
-          "fullName": "Gilles CHEMOUL",
-          "firstName": "Gilles",
-          "lastName": "CHEMOUL",
-          "company": "GCA",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Droit fiscal",
-          "professionSpecialty": "Avocat - Droit fiscal",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Droit fiscal > Avocat - Droit fiscal",
-          "phone": "0675393788",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
-        {
-          "fullName": "Mathilde TCHERNOUKHA",
-          "firstName": "Mathilde",
-          "lastName": "TCHERNOUKHA",
-          "company": "TCHERNOUKHA",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Droit des affaires",
-          "professionSpecialty": "Avocat - Droit des affaires",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Droit des affaires > Avocat - Droit des affaires",
-          "phone": "0634505166",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
-        {
-          "fullName": "Rose SKENADJE",
-          "firstName": "Rose",
-          "lastName": "SKENADJE",
-          "company": "Avocat",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Droit pénal",
-          "professionSpecialty": "Avocat - Droit pénal",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Droit pénal > Avocat - Droit pénal",
-          "phone": "0671699731",
-          "bniSphere": "Conseil et service aux entreprises"
-        },
-        {
-          "fullName": "Sébastien MOSTOSI",
-          "firstName": "Sébastien",
-          "lastName": "MOSTOSI",
-          "company": "MOSTOSI AVOCAT",
-          "professionCategory": "Juridique et Comptabilité",
-          "professionSubcategory": "Avocat - Droit du travail",
-          "professionSpecialty": "Avocat - Droit du travail",
-          "professionRaw": "Juridique et Comptabilité > Avocat - Droit du travail",
-          "phone": "0771155172",
-          "bniSphere": "Conseil et service aux entreprises"
-        }
-      ],
+      "scrapedAt": "2026-08-24T06:44:49.292Z",
+      "memberCount": 0,
+      "members": [],
       "sphereStats": {
         "Communication": 0,
         "Informatique Télécom": 0,
         "Finances": 0,
-        "Conseil et service aux entreprises": 6,
+        "Conseil et service aux entreprises": 0,
         "RH Formation": 0,
         "Immobilier": 0,
-        "Construction Bâtiment": 1,
+        "Construction Bâtiment": 0,
         "Vente et services aux particuliers": 0,
         "Bien être": 0
       }
@@ -3636,7 +3563,7 @@
       "chapterSlug": "fides-paris",
       "chapterName": "75-09 BNI Fides - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/fides-paris/fr/listemembre?chapterName=3729&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:00.631Z",
+      "scrapedAt": "2026-08-24T06:44:56.090Z",
       "memberCount": 14,
       "members": [
         {
@@ -3825,7 +3752,7 @@
       "chapterSlug": "croissance-paris",
       "chapterName": "92-01 BNI Croissance - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/croissance-paris/fr/listemembre?chapterName=3736&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:06.982Z",
+      "scrapedAt": "2026-08-24T06:45:02.269Z",
       "memberCount": 13,
       "members": [
         {
@@ -3882,9 +3809,9 @@
           "lastName": "LOUBIGNAC",
           "company": "RH SOLUTIONS",
           "professionCategory": "Emploi / Recrutement",
-          "professionSubcategory": "Emploi / Recrutement (Autre)",
-          "professionSpecialty": "Portage Salarial",
-          "professionRaw": "Emploi / Recrutement > Emploi / Recrutement (Autre) > Portage Salarial",
+          "professionSubcategory": "Ressources humaines",
+          "professionSpecialty": "Ressources humaines",
+          "professionRaw": "Emploi / Recrutement > Ressources humaines > Ressources humaines",
           "phone": "06 48 07 85 90",
           "bniSphere": "RH Formation"
         },
@@ -3894,9 +3821,9 @@
           "lastName": "CAUSSADE",
           "company": "Lummens",
           "professionCategory": "Publicité et Marketing",
-          "professionSubcategory": "Publicité et Marketing (Autre)",
-          "professionSpecialty": "Agence de prepress",
-          "professionRaw": "Publicité et Marketing > Publicité et Marketing (Autre) > Agence de prepress",
+          "professionSubcategory": "Agence de publicité / communication",
+          "professionSpecialty": "Agence de publicité / communication",
+          "professionRaw": "Publicité et Marketing > Agence de publicité / communication > Agence de publicité / communication",
           "phone": "0610543567",
           "bniSphere": "Communication"
         },
@@ -4002,7 +3929,7 @@
       "chapterSlug": "wake-up-paris",
       "chapterName": "75D-46 BNI Wake Up - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/wake-up-paris/fr/listemembre?chapterName=30962&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:13.412Z",
+      "scrapedAt": "2026-08-24T06:45:08.478Z",
       "memberCount": 23,
       "members": [
         {
@@ -4119,9 +4046,9 @@
           "lastName": "HAPPE",
           "company": "CABINET AXA",
           "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Finances et Assurances (Autre)",
-          "professionSpecialty": "Assureur de personnes",
-          "professionRaw": "Finance et Assurances > Finances et Assurances (Autre) > Assureur de personnes",
+          "professionSubcategory": "Prévoyance",
+          "professionSpecialty": "Prévoyance",
+          "professionRaw": "Finance et Assurances > Prévoyance > Prévoyance",
           "phone": "06 64 97 64 46",
           "bniSphere": "Finances"
         },
@@ -4299,7 +4226,7 @@
       "chapterSlug": "and-you-paris",
       "chapterName": "75-19 BNI&You - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/and-you-paris/fr/listemembre?chapterName=10627&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:19.752Z",
+      "scrapedAt": "2026-08-24T06:45:14.664Z",
       "memberCount": 12,
       "members": [
         {
@@ -4464,7 +4391,7 @@
       "chapterSlug": "move-paris",
       "chapterName": "75D-47 BNI Move - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/move-paris/fr/listedesmembres?chapterName=32269&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:26.187Z",
+      "scrapedAt": "2026-08-24T06:45:20.875Z",
       "memberCount": 20,
       "members": [
         {
@@ -4725,7 +4652,7 @@
       "chapterSlug": "best-breakfast-paris",
       "chapterName": "75-11 BNI Best & Breakfast - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/best-%26-breakfast-paris/fr/listemembre?chapterName=3731&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:32.531Z",
+      "scrapedAt": "2026-08-24T06:45:27.108Z",
       "memberCount": 15,
       "members": [
         {
@@ -4926,7 +4853,7 @@
       "chapterSlug": "synergies",
       "chapterName": "75-14 BNI Synergies - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/synergies/fr/listemembre?chapterName=3740&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:38.877Z",
+      "scrapedAt": "2026-08-24T06:45:33.298Z",
       "memberCount": 15,
       "members": [
         {
@@ -5127,7 +5054,7 @@
       "chapterSlug": "flash-paris",
       "chapterName": "75D-49 BNI Flash - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/flash-paris/fr/listedesmembres?chapterName=39472&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:45.197Z",
+      "scrapedAt": "2026-08-24T06:45:39.490Z",
       "memberCount": 10,
       "members": [
         {
@@ -5268,7 +5195,7 @@
       "chapterSlug": "la-sorbonne-paris",
       "chapterName": "75-08 BNI La Sorbonne - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/la-sorbonne-paris/fr/listemembre?chapterName=3728&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:51.506Z",
+      "scrapedAt": "2026-08-24T06:45:45.704Z",
       "memberCount": 12,
       "members": [
         {
@@ -5313,9 +5240,9 @@
           "lastName": "MARRE",
           "company": "AXA PREVOYANCE ET PATRIMOINE",
           "professionCategory": "Finance et Assurances",
-          "professionSubcategory": "Finances et Assurances (Autre)",
-          "professionSpecialty": "Prévoyance, Retraite et Succession",
-          "professionRaw": "Finance et Assurances > Finances et Assurances (Autre) > Prévoyance, Retraite et Succession",
+          "professionSubcategory": "Prévoyance",
+          "professionSpecialty": "Prévoyance",
+          "professionRaw": "Finance et Assurances > Prévoyance > Prévoyance",
           "phone": "0667820999",
           "bniSphere": "Finances"
         },
@@ -5396,12 +5323,12 @@
           "firstName": "Olivier",
           "lastName": "PANCER",
           "company": "OPTIQUE PANCER",
-          "professionCategory": "Services aux personnes",
-          "professionSubcategory": "Services aux personnes (Autre)",
-          "professionSpecialty": "Opticien",
-          "professionRaw": "Services aux personnes > Services aux personnes (Autre) > Opticien",
+          "professionCategory": "Santé et Bien-être",
+          "professionSubcategory": "Opticien / soins de la vue",
+          "professionSpecialty": "Opticien / soins de la vue",
+          "professionRaw": "Santé et Bien-être > Opticien / soins de la vue > Opticien / soins de la vue",
           "phone": "01 45 22 44 58",
-          "bniSphere": "Vente et services aux particuliers"
+          "bniSphere": "Bien être"
         },
         {
           "fullName": "Xavier VESPERINI",
@@ -5424,8 +5351,8 @@
         "RH Formation": 0,
         "Immobilier": 2,
         "Construction Bâtiment": 1,
-        "Vente et services aux particuliers": 1,
-        "Bien être": 0
+        "Vente et services aux particuliers": 0,
+        "Bien être": 1
       }
     },
     {
@@ -5433,7 +5360,7 @@
       "chapterSlug": "shine-paris",
       "chapterName": "75-39 BNI Shine - Paris",
       "sourceUrl": "https://bni-paris-rive-droite.fr/shine-paris/fr/listemembre?chapterName=15691&regionIds=3660$isChapterwebsite",
-      "scrapedAt": "2026-08-17T06:42:57.897Z",
+      "scrapedAt": "2026-08-24T06:45:51.923Z",
       "memberCount": 10,
       "members": [
         {
@@ -5605,11 +5532,11 @@
     "Communication": 39,
     "Informatique Télécom": 14,
     "Finances": 70,
-    "Conseil et service aux entreprises": 170,
+    "Conseil et service aux entreprises": 165,
     "RH Formation": 16,
     "Immobilier": 40,
-    "Construction Bâtiment": 51,
-    "Vente et services aux particuliers": 11,
-    "Bien être": 9
+    "Construction Bâtiment": 50,
+    "Vente et services aux particuliers": 10,
+    "Bien être": 10
   }
 }
